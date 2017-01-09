@@ -1,0 +1,11 @@
+{
+  "name": "use-ping",
+  "version": "0.0.1",
+  "description": "use ping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Kannan (http://www.deepak-kannan.com)",
+  "license": "ISC"
+}
